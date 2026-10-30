@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/gyoko-jikaawase",
  "yomi": "ぎょうこうほういんじかあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "自歌合（十番）",
+  "era": "室町中期",
+  "author": "堯孝（自撰）、判者 冷泉為広",
+  "desc": "二条派の歌僧堯孝が自詠二十首を十番に番えた自歌合で、冷泉為広が判を加えた。判詞は六百番歌合の判などを引いて論じ、末尾に長歌を添える。"
+ },
  "editions": [
   {
    "pid": "1879502",
